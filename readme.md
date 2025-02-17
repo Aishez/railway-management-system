@@ -47,6 +47,6 @@ nodemon server.js
 
 NOW test all apis with postman
 
-Export from postman in included
+Export from postman is included
 
 
