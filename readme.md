@@ -1,4 +1,5 @@
 git clone https://github.com/aishez/railway-management-system.git
+
 cd railway-management-system
 
 npm install
@@ -45,5 +46,7 @@ nodemon server.js
 
 
 NOW test all apis with postman
+
+Export from postman in included
 
 
